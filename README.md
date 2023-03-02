@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+My first repository!  
+  
+About me:  
+A 9th grader studying Python
